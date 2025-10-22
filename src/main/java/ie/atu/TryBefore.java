@@ -12,8 +12,6 @@ public class TryBefore {
     age = Integer.parseInt(text);
     System.out.print("your age: " + age);
 
-
-
     }
 
 }
